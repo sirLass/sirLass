@@ -1,6 +1,7 @@
 # Hi, I'm Brian Perez - aka sirLass 👋
 
-https://www.google.com/imgres?q=zoro%20gif%20in%20boat%20with%20sanji&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Fda%2Fe1%2F83%2Fdae18334232594e4e51cc5df0271a249.jpg&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2F698058011004914328%2F&docid=ZNyN-6D-CV9BhM&tbnid=daVfSQNrrfyFeM&vet=12ahUKEwi_xc_Qy5WWAxXTl1YBHb-_M0cQnPAOegQIJBAA..i&w=736&h=727&hcb=2&ved=2ahUKEwi_xc_Qy5WWAxXTl1YBHb-_M0cQnPAOegQIJBAA
+![Uploading image.png…]()
+
 
 ### Full-Stack Developer | Builder at Heart | AI/ML & NLP Enthusiast
 
