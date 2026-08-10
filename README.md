@@ -1,6 +1,4 @@
-# Hi, I'm Brian Perez - aka sirLass
-
-
+# Hi, I'm Brian Perez (aka sirLass) 👋
 
 ### Full-Stack Developer | Builder at Heart | AI/ML & NLP Enthusiast
 
@@ -9,6 +7,15 @@ I love **building things that solve real problems**, at the intersection of **we
 I work primarily with **Python, TypeScript/JavaScript, React, Next.js, Django, Node.js**, and modern databases, with a strong interest in **NLP, machine learning, and AI-powered systems**.
 
 🌐 **Portfolio:** https://sir-lass.vercel.app/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sirLass&show_icons=true&theme=default&hide_border=true" alt="Brian's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirLass&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
+</p>
 
 ---
 
