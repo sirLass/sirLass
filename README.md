@@ -1,6 +1,5 @@
-# Hi, I'm Brian Perez - aka sirLass 👋
+# Hi, I'm Brian Perez - aka sirLass
 
-![Uploading image.png…]()
 
 
 ### Full-Stack Developer | Builder at Heart | AI/ML & NLP Enthusiast
